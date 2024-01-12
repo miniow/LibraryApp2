@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+c
+3app/src/main/java/com/example/liblaryapp2/Book.java,5\9\599103de73d114b874bfcd47f50caef021d04301
+l
+<app/src/main/java/com/example/liblaryapp2/BookContainer.java,4\5\4522e0b525e4858a0ba49c9bd82fd5fbe929de1a
+o
+?app/src/main/java/com/example/liblaryapp2/RetrofitInstance.java,7\c\7c31b69c148098d92ffbbbb2b5e9e50842f9a72d
+j
+:app/src/main/java/com/example/liblaryapp2/BookService.java,4\1\4158ee00cc89913f7163d658a78bfb90497261f1
+k
+;app/src/main/java/com/example/liblaryapp2/MainActivity.java,7\d\7d4322130b649c65caa0d00cf11e5a988f04fa2c
+l
+<app/src/main/java/com/example/liblaryapp2/MainActivity2.java,c\b\cbdce489d51b543a328fd7b9657d381474489a42
+r
+Bapp/src/main/java/com/example/liblaryapp2/BookDetailsActivity.java,3\0\307ddc4f56d6156a32786d417f89e2daee99e9ae

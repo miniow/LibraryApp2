@@ -1,0 +1,21 @@
+
+v
+java:S1450"TRemove the "cover" field and declare it as a local variable in the relevant methods.(‹Ûñ¬øÿÿÿÿ8Æ²¶Ê1
+x
+java:S1450"[Remove the "recievedBook" field and declare it as a local variable in the relevant methods.(¨ß†ö8Æ²¶Ê1
+{
+java:S1450"^Remove the "textViewAuthors" field and declare it as a local variable in the relevant methods.(¬¥ò8Ç²¶Ê1
+€
+java:S1450"dRemove the "textViewFirstSentence" field and declare it as a local variable in the relevant methods.(´í Q8È²¶Ê1
+
+java:S1450"bRemove the "textViewPublishDate" field and declare it as a local variable in the relevant methods.(ŒìàÏ8È²¶Ê1
+
+java:S1450"_Remove the "textViewSubtitle" field and declare it as a local variable in the relevant methods.(Ó§€§ÿÿÿÿÿ8É²¶Ê1
+x
+java:S1450"[Remove the "textViewTags" field and declare it as a local variable in the relevant methods.(ñ¡…ÿ8É²¶Ê1
+~
+java:S1450"\Remove the "textViewTitle" field and declare it as a local variable in the relevant methods.(Ç¬Ş–ùÿÿÿÿ8Ê²¶Ê1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Û½Ê€şÿÿÿÿ8İ²¶Ê1
+^
+java:S1874/"<Remove this use of "getSerializableExtra"; it is deprecated.(¯ãÇïıÿÿÿÿ8â²¶Ê1
